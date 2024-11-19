@@ -16,7 +16,7 @@ public class HelloWorldApplication {
 class HelloWorldController {
     @GetMapping("/")
     public String hello() {
-        return "Hello World";
+        return "Hello World d.0.0.2";
     }
 }
 
